@@ -81,15 +81,16 @@ twitter-clone/
 Add app screenshots here:
 
 - **Home Page**  
-  ![image](https://github.com/user-attachments/assets/c527e6e2-4ca6-4c61-bd73-e2ef2a1c01e8)
+  ![image](https://github.com/user-attachments/assets/5cd831d0-4ae5-4eb5-aff5-84892c0898d4)
+
 
 - **User Profile Page**  
-  ![image](https://github.com/user-attachments/assets/782bc56b-522f-4940-8f1b-99be8e81dd72)
+  ![image](https://github.com/user-attachments/assets/906d5828-f66c-47b2-b01b-602e8398a129)
+
 
 - **Interactions**: Like, Retweet, Comment  
-  ![image](https://github.com/user-attachments/assets/5d41418b-8a85-4713-b114-590cb6221c69)
-  ![image](https://github.com/user-attachments/assets/80f27aa3-f928-4edf-b341-4722e2167a62)
-  ![image](https://github.com/user-attachments/assets/4bfef01b-ad56-42c1-b501-d72985d2b8d4)
+ ![image](https://github.com/user-attachments/assets/44af1301-76c2-4d48-a93b-5a271bd92277)
+
 
 
 ## **API Endpoints Used**
